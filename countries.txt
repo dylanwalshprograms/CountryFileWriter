@@ -1,0 +1,3 @@
+United States Of America	331002651
+Canada	1700000
+Mexico	50000000
